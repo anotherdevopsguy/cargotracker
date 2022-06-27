@@ -43,7 +43,7 @@
     <distributionManagement>
    <snapshotRepository>
       <id>snapshots</id>
-      <url>http://100.26.102.67:8081/nexus/content/repositories/snapshots</url>
+      <url>http://18.190.158.28:8081/nexus/content/repositories/snapshots</url>
    </snapshotRepository>
 </distributionManagement>
 
@@ -172,7 +172,7 @@
 <properties>
 <!-- Optional URL to server. Default value is http://localhost:9000 -->
 <sonar.host.url>
-http://54.87.165.225:9000
+http://3.133.11.237:9000
 </sonar.host.url>
 </properties>
 </profile>
